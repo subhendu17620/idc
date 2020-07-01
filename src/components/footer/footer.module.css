@@ -1,0 +1,10 @@
+.copyright_text {
+  color: grey;
+  text-align: center;
+}
+
+.footer {
+  padding: 3em 0;
+  background-color: #1f1f1f;
+  /* text-align: center; */
+}

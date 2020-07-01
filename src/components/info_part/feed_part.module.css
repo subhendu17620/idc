@@ -1,0 +1,11 @@
+.hr {
+  height: 1px;
+  color: rgb(228, 226, 226);
+  background-color: rgb(228, 226, 226);
+  width: 80vw;
+}
+
+.time {
+  color: rgb(165, 165, 165);
+  font-size: 13px;
+}
