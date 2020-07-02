@@ -16,19 +16,12 @@
   font-weight: bold;
 }
 .info_part {
-  margin: 1em 5em;
+  margin: 2em 3em;
   display: flex;
 }
 .sub_heading {
   font-variant-caps: all-petite-caps;
   color: grey;
-}
-.left_part {
-  margin: 1em 3em;
-  width: 75%;
-}
-.right_part {
-  margin: 1em 1em;
 }
 .feed_part {
   margin: 2em auto;

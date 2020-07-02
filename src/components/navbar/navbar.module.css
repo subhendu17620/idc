@@ -1,27 +1,28 @@
 .navbar {
-  padding: 2.5em 6em;
-  background-color: #1f1f1f;
+  padding: 2.5em 6em !important;
+  background-color: #1f1f1f !important;
   display: flex;
   position: relative;
-  justify-content: space-between;
+  justify-content: space-between !important;
 }
 .logo {
-  color: white;
-  font-size: 30px;
+  color: white !important;
+  font-size: 30px !important;
 }
 .logo:hover {
   color: #f9c747;
 }
+
 .option {
   margin: auto 1em;
-  color: #b6b6b6;
-  border-radius: 8.5px;
-  padding: 0.5em 0.8em;
+  color: #b6b6b6 !important;
+  border-radius: 8.5px !important;
+  padding: 0.5em 0.8em !important   ;
 }
 .option:hover {
-  background-color: #f9c747;
-  color: #1f1f1f;
-  text-decoration: none;
+  background-color: #f9c747 !important;
+  color: #1f1f1f !important;
+  text-decoration: none !important;
 }
 
 .navbar:after {
